@@ -51,7 +51,7 @@ module.exports = {
         aspects: ['noHref', 'invalidHref', 'preferButton'],
       },
       {
-        'prettier/prettier': ['error', { singleQuote: true }],
+        // 'prettier/prettier': ['error', { singleQuote: true }],
       },
     ],
   },
