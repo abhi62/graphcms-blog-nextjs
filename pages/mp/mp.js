@@ -4,7 +4,9 @@ import Head from 'next/head';
 const Marketing = () => {
   return (
     <div>
-      <Head>GeistAid</Head>
+      <Head>
+        <title>GeistAid-Promo</title>
+      </Head>
       <title>Marketing pg</title>
     </div>
   );
